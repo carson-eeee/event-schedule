@@ -1,0 +1,3 @@
+https://iot.spyc.hk/event-schedule
+https://iot.spyc.hk/timetable
+https://iot.spyc.hk/cyclecal
