@@ -1,0 +1,282 @@
+2025-05-24 00:04:30,057 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 00:04:30,541 - INFO - Slash commands synced globally: 5 commands
+2025-05-24 00:04:30,542 - INFO - Synced command: timetable
+2025-05-24 00:04:30,542 - INFO - Synced command: activities
+2025-05-24 00:04:30,543 - INFO - Synced command: qrcode
+2025-05-24 00:04:30,544 - INFO - Synced command: ask_ai
+2025-05-24 00:04:30,544 - INFO - Synced command: help
+2025-05-24 00:05:58,232 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:12:00,827 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 00:12:01,250 - INFO - Slash commands synced globally: 5 commands
+2025-05-24 00:12:01,258 - INFO - Synced command: timetable
+2025-05-24 00:12:01,259 - INFO - Synced command: activities
+2025-05-24 00:12:01,260 - INFO - Synced command: qrcode
+2025-05-24 00:12:01,260 - INFO - Synced command: ask_ai
+2025-05-24 00:12:01,261 - INFO - Synced command: help
+2025-05-24 00:13:01,976 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:13:01,985 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:14:12,531 - INFO - User: 931848512633700384 (60901161) - Command: /help - Inputs: None
+2025-05-24 00:14:12,532 - INFO - User: 931848512633700384 (60901161) - Command: /help - Inputs: None
+2025-05-24 00:18:38,560 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 00:18:38,562 - INFO - Attempting to sync slash commands globally...
+2025-05-24 00:18:38,983 - INFO - Slash commands synced globally: 5 commands
+2025-05-24 00:18:38,984 - INFO - Synced command: timetable
+2025-05-24 00:18:38,984 - INFO - Synced command: activities
+2025-05-24 00:18:38,985 - INFO - Synced command: qrcode
+2025-05-24 00:18:38,986 - INFO - Synced command: ask_ai
+2025-05-24 00:18:38,986 - INFO - Synced command: help
+2025-05-24 00:18:55,675 - INFO - User: 931848512633700384 (60901161) - Command: /activities - Inputs: date=None
+2025-05-24 00:18:55,676 - INFO - Using default date: 24/05/2025
+2025-05-24 00:18:55,683 - INFO - User: 931848512633700384 (60901161) - Command: /activities - Inputs: date=None
+2025-05-24 00:18:55,689 - INFO - Using default date: 24/05/2025
+2025-05-24 00:19:56,093 - INFO - User: 931848512633700384 (60901161) - Command: /activities - Inputs: date=None
+2025-05-24 00:19:56,093 - INFO - User: 931848512633700384 (60901161) - Command: /activities - Inputs: date=None
+2025-05-24 00:19:56,097 - INFO - Using default date: 24/05/2025
+2025-05-24 00:19:56,098 - INFO - Using default date: 24/05/2025
+2025-05-24 00:20:07,667 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:20:07,672 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:20:27,224 - INFO - User: 931848512633700384 (60901161) - Action: QR code style selection - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=vertical_gradient
+2025-05-24 00:20:44,121 - INFO - User: 931848512633700384 (60901161) - Action: QR code style selection - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=radial_gradient
+2025-05-24 00:22:29,201 - INFO - User: 1362286528788828272 (salmon595) - Command: /qrcode - Inputs: url=e, style=horizontal_gradient
+2025-05-24 00:22:29,201 - INFO - User: 1362286528788828272 (salmon595) - Command: /qrcode - Inputs: url=e, style=horizontal_gradient
+2025-05-24 00:22:29,202 - ERROR - Invalid URL format: e
+2025-05-24 00:22:29,202 - ERROR - Invalid URL format: e
+2025-05-24 00:22:48,055 - INFO - User: 1362286528788828272 (salmon595) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:22:48,055 - INFO - User: 1362286528788828272 (salmon595) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:26:50,407 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 00:26:50,408 - INFO - Attempting to sync slash commands globally...
+2025-05-24 00:26:50,827 - INFO - Slash commands synced globally: 5 commands
+2025-05-24 00:26:50,828 - INFO - Synced command: timetable
+2025-05-24 00:26:50,828 - INFO - Synced command: activities
+2025-05-24 00:26:50,829 - INFO - Synced command: qrcode
+2025-05-24 00:26:50,830 - INFO - Synced command: ask_ai
+2025-05-24 00:26:50,831 - INFO - Synced command: help
+2025-05-24 00:27:51,142 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:27:51,147 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:28:01,493 - INFO - User: 931848512633700384 (60901161) - Action: QR code style selection - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=solid
+2025-05-24 00:28:07,220 - INFO - User: 931848512633700384 (60901161) - Action: QR code style selection - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=vertical_gradient
+2025-05-24 00:28:11,931 - INFO - User: 931848512633700384 (60901161) - Action: QR code style selection - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=radial_gradient
+2025-05-24 00:37:19,052 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 00:37:19,053 - INFO - Attempting to sync slash commands globally...
+2025-05-24 00:37:19,474 - INFO - Slash commands synced globally: 7 commands
+2025-05-24 00:37:19,475 - INFO - Synced command: timetable
+2025-05-24 00:37:19,475 - INFO - Synced command: activities
+2025-05-24 00:37:19,476 - INFO - Synced command: qrcode
+2025-05-24 00:37:19,477 - INFO - Synced command: ask_ai
+2025-05-24 00:37:19,478 - INFO - Synced command: help
+2025-05-24 00:37:19,478 - INFO - Synced command: dev
+2025-05-24 00:37:19,479 - INFO - Synced command: pm
+2025-05-24 00:38:10,168 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient, color=black
+2025-05-24 00:38:10,180 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:38:20,511 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient, color=black
+2025-05-24 00:38:20,511 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:38:36,510 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient, color=yellow
+2025-05-24 00:38:36,516 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:38:43,449 - INFO - User: 931848512633700384 (60901161) - Action: QR code style selection - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=solid, color=yellow
+2025-05-24 00:39:10,587 - INFO - User: 931848512633700384 (60901161) - Command: /dev - Inputs: server_name=None
+2025-05-24 00:39:11,413 - INFO - User: 931848512633700384 (60901161) - Command: /dev - Response sent
+2025-05-24 00:40:50,020 - INFO - User: 931848512633700384 (60901161) - Command: /dev - Inputs: server_name=泰坦級宇宙飛船 V2
+2025-05-24 00:40:51,049 - INFO - User: 931848512633700384 (60901161) - Command: /dev - Response sent
+2025-05-24 00:41:19,716 - INFO - User: 931848512633700384 (60901161) - Command: /dev - Inputs: server_name=None
+2025-05-24 00:41:20,748 - INFO - User: 931848512633700384 (60901161) - Command: /dev - Response sent
+2025-05-24 00:41:33,541 - INFO - User: 931848512633700384 (60901161) - Command: /dev - Inputs: server_name=salmon's server
+2025-05-24 00:41:34,265 - INFO - User: 931848512633700384 (60901161) - Command: /dev - Response sent
+2025-05-24 00:41:55,558 - INFO - User: 931848512633700384 (60901161) - Command: /pm - Inputs: user_id=1362286528788828272, message=testiung132
+2025-05-24 00:41:57,517 - INFO - User: 931848512633700384 (60901161) - Command: /pm - DM sent to 1362286528788828272
+2025-05-24 10:41:23,918 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 10:41:23,923 - INFO - Attempting to sync slash commands globally...
+2025-05-24 10:41:24,497 - INFO - Slash commands synced globally: 7 commands
+2025-05-24 10:41:24,499 - INFO - Synced command: timetable
+2025-05-24 10:41:24,500 - INFO - Synced command: activities
+2025-05-24 10:41:24,501 - INFO - Synced command: qrcode
+2025-05-24 10:41:24,503 - INFO - Synced command: ask_ai
+2025-05-24 10:41:24,504 - INFO - Synced command: help
+2025-05-24 10:41:24,506 - INFO - Synced command: dev
+2025-05-24 10:41:24,507 - INFO - Synced command: pm
+2025-05-24 10:42:13,819 - INFO - User: 931848512633700384 (60901161) - Command: /ask_ai - Inputs: query=hi???? work now?
+2025-05-24 10:43:35,025 - INFO - User: 1362286528788828272 (salmon595) - Command: /activities - Inputs: date=None
+2025-05-24 10:43:35,028 - INFO - Using default date: 24/05/2025
+2025-05-24 10:43:49,874 - INFO - User: 1362286528788828272 (salmon595) - Command: /activities - Inputs: date=26/5/2025
+2025-05-24 10:43:56,325 - INFO - User: 1362286528788828272 (salmon595) - Command: /activities - Inputs: date=None
+2025-05-24 10:43:56,328 - INFO - Using default date: 24/05/2025
+2025-05-24 10:44:53,671 - INFO - User: 1362286528788828272 (salmon595) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient, color=black
+2025-05-24 10:45:00,508 - INFO - User: 1362286528788828272 (salmon595) - Action: QR code style selection - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=solid, color=black
+2025-05-24 10:53:17,295 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 10:53:17,304 - INFO - Attempting to sync slash commands globally...
+2025-05-24 10:53:17,804 - INFO - Slash commands synced globally: 10 commands
+2025-05-24 10:53:17,806 - INFO - Synced command: timetable
+2025-05-24 10:53:17,807 - INFO - Synced command: activities
+2025-05-24 10:53:17,808 - INFO - Synced command: qrcode
+2025-05-24 10:53:17,810 - INFO - Synced command: ask_ai
+2025-05-24 10:53:17,811 - INFO - Synced command: help
+2025-05-24 10:53:17,814 - INFO - Synced command: avatar
+2025-05-24 10:53:17,816 - INFO - Synced command: server
+2025-05-24 10:53:17,817 - INFO - Synced command: suggestion
+2025-05-24 10:53:17,819 - INFO - Synced command: dev
+2025-05-24 10:53:17,820 - INFO - Synced command: pm
+2025-05-24 10:54:05,637 - INFO - User: 931848512633700384 (60901161) - Command: /help - Inputs: None
+2025-05-24 10:54:05,648 - INFO - User: 931848512633700384 (60901161) - Command: /help - Inputs: None
+2025-05-24 10:54:06,591 - INFO - User: 931848512633700384 (60901161) - Command: /help - Response sent
+2025-05-24 10:54:33,855 - INFO - User: 931848512633700384 (60901161) - Action: Ping AI - Inputs: query=<@1131163159097516123> what is the captiakl of France
+2025-05-24 10:54:33,858 - INFO - User: 931848512633700384 (60901161) - Action: Ping AI - Inputs: query=<@1131163159097516123> what is the captiakl of France
+2025-05-24 10:55:12,287 - INFO - User: 931848512633700384 (60901161) - Action: Ping AI - Inputs: query=<@1131163159097516123>
+2025-05-24 10:55:12,288 - INFO - User: 931848512633700384 (60901161) - Action: Ping AI - Inputs: None (empty query)
+2025-05-24 10:55:12,290 - INFO - User: 931848512633700384 (60901161) - Action: Ping AI - Inputs: None (empty query)
+2025-05-24 10:55:25,599 - INFO - User: 931848512633700384 (60901161) - Command: /dev - Inputs: server_name=None
+2025-05-24 10:55:26,322 - INFO - User: 931848512633700384 (60901161) - Command: /dev - Response sent
+2025-05-24 10:57:31,534 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 10:57:31,536 - INFO - Attempting to sync slash commands globally...
+2025-05-24 10:57:31,895 - INFO - Slash commands synced globally: 10 commands
+2025-05-24 10:57:31,896 - INFO - Synced command: timetable
+2025-05-24 10:57:31,897 - INFO - Synced command: activities
+2025-05-24 10:57:31,899 - INFO - Synced command: qrcode
+2025-05-24 10:57:31,900 - INFO - Synced command: ask_ai
+2025-05-24 10:57:31,901 - INFO - Synced command: help
+2025-05-24 10:57:31,903 - INFO - Synced command: avatar
+2025-05-24 10:57:31,906 - INFO - Synced command: server
+2025-05-24 10:57:31,907 - INFO - Synced command: suggestion
+2025-05-24 10:57:31,912 - INFO - Synced command: dev
+2025-05-24 10:57:31,913 - INFO - Synced command: pm
+2025-05-24 11:04:18,047 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 11:04:18,050 - INFO - Attempting to sync slash commands globally...
+2025-05-24 11:04:18,462 - INFO - Slash commands synced globally: 10 commands
+2025-05-24 11:04:18,464 - INFO - Synced command: timetable
+2025-05-24 11:04:18,465 - INFO - Synced command: activities
+2025-05-24 11:04:18,467 - INFO - Synced command: qrcode
+2025-05-24 11:04:18,468 - INFO - Synced command: ask_ai
+2025-05-24 11:04:18,470 - INFO - Synced command: help
+2025-05-24 11:04:18,472 - INFO - Synced command: avatar
+2025-05-24 11:04:18,474 - INFO - Synced command: server
+2025-05-24 11:04:18,475 - INFO - Synced command: suggestion
+2025-05-24 11:04:18,477 - INFO - Synced command: dev
+2025-05-24 11:04:18,478 - INFO - Synced command: pm
+2025-05-24 11:04:36,436 - INFO - User: 1362286528788828272 (salmon595) - Command: /avatar - Inputs: user=1362286528788828272
+2025-05-24 11:04:37,043 - INFO - User: 1362286528788828272 (salmon595) - Command: /avatar - Response sent for user 1362286528788828272
+2025-05-24 11:04:46,026 - INFO - User: 1362286528788828272 (salmon595) - Command: /server - Inputs: guild=908593785557123083
+2025-05-24 11:04:47,589 - INFO - User: 1362286528788828272 (salmon595) - Command: /server - Response sent for guild 908593785557123083
+2025-05-24 11:06:57,763 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 11:06:57,766 - INFO - Attempting to sync slash commands globally...
+2025-05-24 11:06:58,127 - INFO - Slash commands synced globally: 10 commands
+2025-05-24 11:06:58,128 - INFO - Synced command: timetable
+2025-05-24 11:06:58,129 - INFO - Synced command: activities
+2025-05-24 11:06:58,130 - INFO - Synced command: qrcode
+2025-05-24 11:06:58,132 - INFO - Synced command: ask_ai
+2025-05-24 11:06:58,133 - INFO - Synced command: help
+2025-05-24 11:06:58,134 - INFO - Synced command: avatar
+2025-05-24 11:06:58,135 - INFO - Synced command: server
+2025-05-24 11:06:58,137 - INFO - Synced command: suggestion
+2025-05-24 11:06:58,138 - INFO - Synced command: dev
+2025-05-24 11:06:58,139 - INFO - Synced command: pm
+2025-05-24 11:07:12,736 - INFO - User: 931848512633700384 (60901161) - Command: /avatar - Inputs: user=1283023401879080991
+2025-05-24 11:07:13,462 - INFO - User: 931848512633700384 (60901161) - Command: /avatar - Response sent for user 1283023401879080991
+2025-05-24 11:07:22,087 - INFO - User: 1004311173858070548 (woahwoah4401) - Action: Ping AI - Inputs: query=<@1131163159097516123> hi
+2025-05-24 11:07:32,976 - INFO - User: 1004311173858070548 (woahwoah4401) - Action: Ping AI - Inputs: query=<@1131163159097516123> what is shatin pui ying college
+2025-05-24 11:08:46,700 - INFO - User: 690822196972486656 (sayakohzk) - Action: Ping AI - Inputs: query=<@1131163159097516123> Write a Python program that shows a ball bouncing inside a spinning hexagon. The ball should be affected by gravity and friction, and it must bounce off the rotating walls realistically
+2025-05-24 11:10:31,383 - INFO - User: 931848512633700384 (60901161) - Command: /avatar - Inputs: user=690822196972486656
+2025-05-24 11:10:32,051 - INFO - User: 931848512633700384 (60901161) - Command: /avatar - Response sent for user 690822196972486656
+2025-05-24 16:02:02,280 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 16:02:02,287 - INFO - Attempting to sync slash commands globally...
+2025-05-24 16:02:02,661 - INFO - Slash commands synced globally: 10 commands
+2025-05-24 16:02:02,662 - INFO - Synced command: timetable
+2025-05-24 16:02:02,663 - INFO - Synced command: activities
+2025-05-24 16:02:02,664 - INFO - Synced command: qrcode
+2025-05-24 16:02:02,665 - INFO - Synced command: ask_ai
+2025-05-24 16:02:02,666 - INFO - Synced command: help
+2025-05-24 16:02:02,666 - INFO - Synced command: avatar
+2025-05-24 16:02:02,667 - INFO - Synced command: server
+2025-05-24 16:02:02,668 - INFO - Synced command: suggestion
+2025-05-24 16:02:02,669 - INFO - Synced command: dev
+2025-05-24 16:02:02,670 - INFO - Synced command: pm
+2025-05-24 16:02:44,877 - INFO - User: 931848512633700384 (60901161) - Action: Ping AI - Inputs: query=<@1131163159097516123> write a basic python flask example
+2025-05-24 16:03:13,382 - INFO - User: 931848512633700384 (60901161) - Action: Ping AI - Inputs: query=<@1131163159097516123> hi
+2025-05-24 16:03:22,301 - INFO - User: 931848512633700384 (60901161) - Action: Ping AI - Inputs: query=<@1131163159097516123> write hello world
+2025-05-24 16:03:35,817 - INFO - User: 931848512633700384 (60901161) - Action: Ping AI - Inputs: query=<@1131163159097516123> write hello world in python
+2025-05-24 18:41:20,361 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 18:41:20,365 - INFO - Attempting to sync slash commands globally...
+2025-05-24 18:41:20,795 - INFO - Slash commands synced globally: 10 commands
+2025-05-24 18:41:20,796 - INFO - Synced command: timetable
+2025-05-24 18:41:20,797 - INFO - Synced command: activities
+2025-05-24 18:41:20,797 - INFO - Synced command: qrcode
+2025-05-24 18:41:20,798 - INFO - Synced command: ask_ai
+2025-05-24 18:41:20,799 - INFO - Synced command: help
+2025-05-24 18:41:20,800 - INFO - Synced command: avatar
+2025-05-24 18:41:20,800 - INFO - Synced command: server
+2025-05-24 18:41:20,801 - INFO - Synced command: suggestion
+2025-05-24 18:41:20,803 - INFO - Synced command: dev
+2025-05-24 18:41:20,804 - INFO - Synced command: pm
+2025-05-24 18:41:40,416 - INFO - User: 931848512633700384 (60901161) - Command: /ask_ai - Inputs: query=122
+2025-05-24 18:41:41,052 - ERROR - HTTP error occurred with gpt-4o-mini API: 403 Client Error: Forbidden for url: https://api.openai.com/v1/chat/completions
+2025-05-24 18:47:57,342 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 18:47:57,344 - INFO - Attempting to sync slash commands globally...
+2025-05-24 18:47:57,764 - INFO - Slash commands synced globally: 10 commands
+2025-05-24 18:47:57,765 - INFO - Synced command: timetable
+2025-05-24 18:47:57,765 - INFO - Synced command: activities
+2025-05-24 18:47:57,766 - INFO - Synced command: qrcode
+2025-05-24 18:47:57,767 - INFO - Synced command: ask_ai
+2025-05-24 18:47:57,767 - INFO - Synced command: help
+2025-05-24 18:47:57,768 - INFO - Synced command: avatar
+2025-05-24 18:47:57,769 - INFO - Synced command: server
+2025-05-24 18:47:57,770 - INFO - Synced command: suggestion
+2025-05-24 18:47:57,771 - INFO - Synced command: dev
+2025-05-24 18:47:57,772 - INFO - Synced command: pm
+2025-05-24 18:50:23,600 - INFO - User: 931848512633700384 (60901161) - Command: /ask_ai - Inputs: query=who are you, model=deepseek-v3
+2025-05-24 18:50:24,111 - ERROR - HTTP error occurred with deepseek-v3 API: 403 Client Error: Forbidden for url: https://api.openai.com/v1/chat/completions
+2025-05-24 18:57:33,118 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 18:57:33,119 - INFO - Attempting to sync slash commands globally...
+2025-05-24 18:57:33,523 - INFO - Slash commands synced globally: 10 commands
+2025-05-24 18:57:33,524 - INFO - Synced command: timetable
+2025-05-24 18:57:33,525 - INFO - Synced command: activities
+2025-05-24 18:57:33,526 - INFO - Synced command: qrcode
+2025-05-24 18:57:33,526 - INFO - Synced command: ask_ai
+2025-05-24 18:57:33,527 - INFO - Synced command: help
+2025-05-24 18:57:33,528 - INFO - Synced command: avatar
+2025-05-24 18:57:33,528 - INFO - Synced command: server
+2025-05-24 18:57:33,528 - INFO - Synced command: suggestion
+2025-05-24 18:57:33,529 - INFO - Synced command: dev
+2025-05-24 18:57:33,529 - INFO - Synced command: pm
+2025-05-24 18:57:53,790 - INFO - User: 931848512633700384 (60901161) - Command: /ask_ai - Inputs: query=123, model=gpt-4o-mini
+2025-05-24 18:57:54,323 - ERROR - HTTP error occurred with gpt-4o-mini API: 403 Client Error: Forbidden for url: https://api.openai.com/v1/chat/completions
+2025-05-24 19:01:41,242 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 19:01:41,243 - INFO - Attempting to sync slash commands globally...
+2025-05-24 19:01:41,620 - INFO - Slash commands synced globally: 10 commands
+2025-05-24 19:01:41,621 - INFO - Synced command: timetable
+2025-05-24 19:01:41,622 - INFO - Synced command: activities
+2025-05-24 19:01:41,623 - INFO - Synced command: qrcode
+2025-05-24 19:01:41,624 - INFO - Synced command: ask_ai
+2025-05-24 19:01:41,625 - INFO - Synced command: help
+2025-05-24 19:01:41,625 - INFO - Synced command: avatar
+2025-05-24 19:01:41,626 - INFO - Synced command: server
+2025-05-24 19:01:41,627 - INFO - Synced command: suggestion
+2025-05-24 19:01:41,627 - INFO - Synced command: dev
+2025-05-24 19:01:41,628 - INFO - Synced command: pm
+2025-05-24 19:05:02,305 - INFO - User: 931848512633700384 (60901161) - Command: /ask_ai - Inputs: query=123, model=gpt-4o-mini
+2025-05-24 19:06:34,054 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 19:06:34,055 - INFO - Attempting to sync slash commands globally...
+2025-05-24 19:06:34,430 - INFO - Slash commands synced globally: 10 commands
+2025-05-24 19:06:34,431 - INFO - Synced command: timetable
+2025-05-24 19:06:34,431 - INFO - Synced command: activities
+2025-05-24 19:06:34,432 - INFO - Synced command: qrcode
+2025-05-24 19:06:34,433 - INFO - Synced command: ask_ai
+2025-05-24 19:06:34,433 - INFO - Synced command: help
+2025-05-24 19:06:34,434 - INFO - Synced command: avatar
+2025-05-24 19:06:34,435 - INFO - Synced command: server
+2025-05-24 19:06:34,436 - INFO - Synced command: suggestion
+2025-05-24 19:06:34,437 - INFO - Synced command: dev
+2025-05-24 19:06:34,438 - INFO - Synced command: pm
+2025-05-24 19:07:23,363 - INFO - User: 931848512633700384 (60901161) - Command: /ask_ai - Inputs: query=hi,who are you, model=gpt-4o-mini
+2025-05-24 19:07:49,434 - INFO - User: 931848512633700384 (60901161) - Command: /ask_ai - Inputs: query=hi,who are you, model=deepseek-v3
+2025-05-24 19:08:51,373 - INFO - User: 931848512633700384 (60901161) - Command: /ask_ai - Inputs: query=write a simple timetable in python, model=deepseek-v3
+2025-05-24 19:10:51,821 - INFO - siu ying (test)#1982 has connected to Discord!
+2025-05-24 19:10:51,822 - INFO - Attempting to sync slash commands globally...
+2025-05-24 19:10:52,243 - INFO - Slash commands synced globally: 10 commands
+2025-05-24 19:10:52,244 - INFO - Synced command: timetable
+2025-05-24 19:10:52,245 - INFO - Synced command: activities
+2025-05-24 19:10:52,246 - INFO - Synced command: qrcode
+2025-05-24 19:10:52,247 - INFO - Synced command: ask_ai
+2025-05-24 19:10:52,247 - INFO - Synced command: help
+2025-05-24 19:10:52,248 - INFO - Synced command: avatar
+2025-05-24 19:10:52,249 - INFO - Synced command: server
+2025-05-24 19:10:52,250 - INFO - Synced command: suggestion
+2025-05-24 19:10:52,251 - INFO - Synced command: dev
+2025-05-24 19:10:52,252 - INFO - Synced command: pm
+2025-05-24 19:11:22,593 - INFO - User: 931848512633700384 (60901161) - Command: /ask_ai - Inputs: query=write a basic python flask template within 1000 words, model=deepseek-v3

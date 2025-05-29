@@ -1,0 +1,10 @@
+2025-05-24 00:27:51,145 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:38:10,169 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient, color=black
+2025-05-24 00:38:10,192 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:38:20,513 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient, color=black
+2025-05-24 00:38:20,515 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:38:36,511 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient, color=yellow
+2025-05-24 00:38:36,517 - INFO - User: 931848512633700384 (60901161) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient
+2025-05-24 00:38:43,450 - INFO - User: 931848512633700384 (60901161) - Action: QR code style selection - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=solid, color=yellow
+2025-05-24 10:44:53,674 - INFO - User: 1362286528788828272 (salmon595) - Command: /qrcode - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=horizontal_gradient, color=black
+2025-05-24 10:45:00,510 - INFO - User: 1362286528788828272 (salmon595) - Action: QR code style selection - Inputs: url=https://www2.pyc.edu.hk/pycnet/index.php, style=solid, color=black
