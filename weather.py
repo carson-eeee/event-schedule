@@ -19,4 +19,4 @@ def get_weather():
     except Exception:
         return ["Error: Failed to fetch weather data"]
     
-print(get_weather())  # Example usage
+# print(get_weather())  # Example usage
