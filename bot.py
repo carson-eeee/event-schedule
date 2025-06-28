@@ -14,7 +14,7 @@ from weather import *
 
 
 # Set up general bot logging
-log_file = os.path.join(os.getcwd(), 'bot_logs.log')
+log_file = os.path.join(os.getcwd(), 'log\logs.log')
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 file_handler = TimedRotatingFileHandler(log_file, when='midnight', interval=1, backupCount=30, encoding='utf-8')
@@ -26,7 +26,7 @@ console_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(
 logger.addHandler(console_handler)
 
 # Set up QR code specific logging
-qrcode_log_file = os.path.join(os.getcwd(), 'qrcode_logs.log')
+qrcode_log_file = os.path.join(os.getcwd(), 'log\qrcode_logs.log')
 qrcode_logger = logging.getLogger('qrcode')
 qrcode_logger.setLevel(logging.INFO)
 qrcode_file_handler = TimedRotatingFileHandler(qrcode_log_file, when='midnight', interval=1, backupCount=30, encoding='utf-8')

@@ -15,3 +15,8 @@ for the open AI key,I bet u are poor,so get one at https://github.com/popjane/fr
 Run the ```bot.py```
 then the bot can run it successfully local. 
 :>
+
+https://iot.spyc.hk/event-schedule
+https://iot.spyc.hk/timetable
+https://iot.spyc.hk/cyclecal
+
